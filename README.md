@@ -1,0 +1,1 @@
+# testRigor-Auto-Adapt-testing
